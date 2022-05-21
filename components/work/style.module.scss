@@ -1,0 +1,15 @@
+.work {
+  @apply flex flex-col gap-1;
+
+  .company {
+    @apply text-lg font-bold;
+  }
+
+  .position {
+    @apply text-slate-700;
+  }
+
+  .date {
+    @apply text-sm ml-auto;
+  }
+}

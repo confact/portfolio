@@ -1,0 +1,41 @@
+Håkan Nylen 
+Centralgatan 24B, Nynäshamn, Stockholm County 
+0705353322
+hakan@dun.se
+
+Summary
+Web developer with experience creating unique, responsive websites that attract and retain a critical mass of customers
+
+Experience
+CTO 
+Beatly                   04/2021 - Present
+Stockholm 
+Took over as CTO. Is doing business plans for the platform, taking 1on1s, and Hires, and making sure the team has everything they need. And code next to that.
+Tech Lead/Developer 
+Beatly                   03/2017 - 05/2021
+Stockholm , Stockholm County
+Started as a Developer and helped the CTO set up the whole infrastructure and the base for the platform. Backend in Ruby, Postgres, Elasticsearch, and Redis with tools like searchkick and Sidekiq. The frontend is with React and Redux, with the landing page built in Next.js
+Integration Developer 
+Fyndiq                   02/2015 - 03/2017
+Stockholm , Stockholm County
+Was first Integration developer and set up integration and plugins to Fyndiq platform in multiple platforms, like Woocommerce, Magento, and Prestashop. Was working mainly in PHP and a bit in Python.
+Ruby Developer 
+BTH Innovation                   02/2013 - 05/2014
+Karlskrona , Blekinge County
+Worked with different innovation projects and helped startup make MVP for their ideas. Was working mostly in Ruby, but also in iOS (Obj-C).
+
+Skills
+Ruby
+Crystal
+React
+Next.js
+Elasticsearch
+PostgreSQL
+Redis
+Docker
+AWS
+
+Education
+Blekinge Institute of Technology                   Software Development, Web development 
+05/2014
+Karlskrona , Blekinge County
