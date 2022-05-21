@@ -14,7 +14,7 @@ export default function Home() {
 
       <main className="px-3 md:px-0 max-w-3xl mx-auto py-6">
         <div>
-          <h1>Hi, My name is <span className={styles.gradient_text}>Håkan Nylén</span></h1>
+          <h1>Hi, my name is <span className={styles.gradient_text}>Håkan Nylén</span></h1>
           <div className={styles.header_border}/>
         </div>
         <div className="flex flex-col gap-3">
