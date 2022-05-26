@@ -12,21 +12,21 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className="px-3 md:px-0 max-w-3xl mx-auto py-6">
+      <main className="px-3 md:px-0 max-w-3xl mx-auto py-6 font-light">
         <div>
           <h1>Hi, my name is <span className={styles.gradient_text}>Håkan Nylén</span></h1>
           <div className={styles.header_border}/>
         </div>
         <div className="flex flex-col gap-3">
-          <p>I am a <span className="font-bold">Crystal, Ruby and React developer</span> based in Stockholm, Sweden. I have been working as a developer since 2014. I have a passion for learning new technologies and solving problems.</p>
-          <p>I am currently working as <span className="font-bold">CTO</span> at <strong>Beatly</strong>.</p>
-          <p>I am active in the open-source community and have built <a href="https://github.com/confact/stripe.cr" className="font-bold hover:underline">Stripe.cr</a> (Stripe API wrapper in Crystal), <a href="https://github.com/confact/lucky_search" className="font-bold hover:underline">Lucky_search</a>, an elasticsearch plugin for Lucky Framework in Crystal, inspired by searchkick for Ruby on Rails.</p>
-          <p>I am interested in privacy and have built multiple encrypted and privacy-friendly services and libraries, like <a href="https://github.com/kindmetrics/kindmetrics" className="font-bold hover:underline">Kindmetrics</a>, a privacy-focused open source web analytics, and <strong>lucky_encrypted</strong>, an attr_encrypted inspired encryption DB for Avram in Lucky Framework.</p>
+          <p>I am a <span className="font-medium">Crystal, Ruby and React developer</span> based in Stockholm, Sweden. I have been working as a developer since 2014. I have a passion for learning new technologies and solving problems.</p>
+          <p>I am currently working as <span className="font-medium">CTO</span> at <strong className="font-medium">Beatly</strong>.</p>
+          <p>I am active in the open-source community and have built <a href="https://github.com/confact/stripe.cr" className="font-medium hover:underline">Stripe.cr</a> (Stripe API wrapper in Crystal), <a href="https://github.com/confact/lucky_search" className="font-medium hover:underline">Lucky_search</a>, an elasticsearch plugin for Lucky Framework in Crystal, inspired by searchkick for Ruby on Rails.</p>
+          <p>I am interested in privacy and have built multiple encrypted and privacy-friendly services and libraries, like <a href="https://github.com/kindmetrics/kindmetrics" className="font-medium hover:underline">Kindmetrics</a>, a privacy-focused open source web analytics, and <strong className="font-medium">lucky_encrypted</strong>, an attr_encrypted inspired encryption DB for Avram in Lucky Framework.</p>
         
         </div>
 
         <div className="mt-6 text-sm flex flex-row gap-3">
-          <a href="/resume.pdf" target="_blank" rel="noopener noreferrer" className="hover:underline">Download my Resume</a> <a href="https://www.linkedin.com/in/hakannylen" alt="Visit my linkedin"><svg
+          <a href="/resume.pdf" target="_blank" rel="noopener noreferrer" className="font-medium hover:underline">Download my Resume</a> <a href="https://www.linkedin.com/in/hakannylen" alt="Visit my linkedin"><svg
       xmlns="http://www.w3.org/2000/svg"
       x="0"
       y="0"
