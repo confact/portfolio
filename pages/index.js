@@ -18,9 +18,9 @@ export default function Home() {
           <div className={styles.header_border}/>
         </div>
         <div className="flex flex-col gap-3">
-          <p>I am a <span className="font-medium">Crystal, Ruby and React developer</span> based in Stockholm, Sweden. I have been working as a developer since 2014. I have a passion for learning new technologies and solving problems.</p>
-          <p>I am currently working as <span className="font-medium">Fullstack Developer</span> at <strong className="font-medium">Tendable</strong>.</p>
-          <p>My current sideproject is <a href="https://www.errordeck.com" className="font-medium hover:underline">Errordeck - Error tracking and monitoring</a>. It is simple an european and more privacy friendly alternative to Sentry, Rollbar, Raygun and Airbrake.</p>
+          <p>I am a <span className="font-medium">Crystal, Ruby and React developer</span> based in Stockholm, Sweden. I have been working as a developer since 2014, and I have a passion for learning new technologies and solving problems.</p>
+          <p>I am currently working as a <span className="font-medium">Fullstack Developer</span> at <strong className="font-medium">Tendable</strong>.</p>
+          <p>My current side project is <a href="https://www.errordeck.com" className="font-medium hover:underline">Errordeck - Error tracking and monitoring</a>. It is a European, more privacy-friendly alternative to Sentry, Rollbar, Raygun and Airbrake.</p>
           <p>I am active in the open-source community and have built <a href="https://github.com/confact/stripe.cr" className="font-medium hover:underline">Stripe.cr</a> (Stripe API wrapper in Crystal), <a href="https://github.com/confact/lucky_search" className="font-medium hover:underline">Lucky_search</a>, an elasticsearch plugin for Lucky Framework in Crystal, inspired by searchkick for Ruby on Rails.</p>
           <p>I am interested in privacy and have built multiple encrypted and privacy-friendly services and libraries, like <a href="https://github.com/kindmetrics/kindmetrics" className="font-medium hover:underline">Kindmetrics</a>, a privacy-focused open source web analytics, and <strong className="font-medium">lucky_encrypted</strong>, an attr_encrypted inspired encryption DB for Avram in Lucky Framework.</p>
         
